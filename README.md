@@ -1,4 +1,4 @@
-# 🏨 Hotel Revenue Analysis – SQL & Power BI
+# 🏨 Hotel Revenue Analysis 
 
 This end-to-end project analyzes hotel booking data using **SQL** for data preparation and **Power BI** for interactive visualization. It follows a structured, portfolio-ready workflow to deliver actionable business insights.
 
